@@ -54,6 +54,6 @@ uint16_t readColorData(uint8_t reg) {
     if (Wire.requestFrom((int)BH1745_ADDR, (int)2) == 2) {
          return (Wire.read() | (Wire.read() << 8));  
      }
-     
+      
      return -1; 
 }
