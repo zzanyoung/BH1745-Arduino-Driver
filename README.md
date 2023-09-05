@@ -1,5 +1,6 @@
 # BH1745-Arduino-Driver
-Arduino communication implementation of BH1745 for Raspberry Pi
+Digital Light Sensor BH1745 for Raspberry Pi<br>
+Arduino communication implementation of BH1745
 
 ![image](https://github.com/zzanyoung/BH1745-Arduino-Driver/assets/53194702/24d40193-7e42-4a2a-9b52-55c8a2bf6c31)
 
